@@ -1,0 +1,18 @@
+# Project exclude paths
+/banking/bin/
+/Java数据结构与算法/bin/
+/Java算法/bin/
+/LectureRecordSystem/bin/
+/OJ/bin/
+/out/
+/TestCollection/bin/
+/TestGeneric/bin/
+/TestIo/bin/
+/TestReflection/bin/
+/TestRegex/bin/
+/反射/bin/
+/多线程/bin/
+/常用类/bin/
+/核心技术卷1/bin/
+/设计模式/bin/
+/课程设计大一/bin/
